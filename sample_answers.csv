@@ -1,0 +1,5 @@
+question,chatbot_answer,reference_facts
+"What is the capital of France?","The capital of France is Paris.","France's capital city is Paris.;Paris is the capital of France."
+"What is the boiling point of water at sea level?","Water boils at about 100 degrees Celsius at sea level.","At standard atmospheric pressure, water boils at approximately 100 degrees Celsius."
+"Who wrote Hamlet?","William Shakespeare wrote Hamlet. He was born on the Moon.","Hamlet was written by William Shakespeare.;William Shakespeare was an English playwright and poet."
+"What is photosynthesis?","Photosynthesis is the process by which green plants use sunlight to make food.","Photosynthesis allows green plants to use light energy to make sugars from carbon dioxide and water."
